@@ -104,3 +104,15 @@ section {
     font-weight: 700;
 }
 
+@media screen and (max-width:400px) {
+    #logo{
+    width: 80%;
+    }
+
+    main{
+        width: 90%;
+        height: 50%;
+    }
+
+
+}
